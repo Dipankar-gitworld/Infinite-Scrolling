@@ -1,0 +1,8 @@
+#main{ 
+      border: 2px solid black; 
+      width:50%; 
+      margin: auto; 
+      text-align: center; 
+      height: 800px; 
+      overflow: auto;
+}
